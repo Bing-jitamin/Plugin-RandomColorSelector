@@ -22,7 +22,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'Christopher Geelen';
+        return 'jian玄冰';
     }
 
     public function getPluginVersion()
@@ -32,6 +32,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/cdgeelen';
+        return 'https://github.com/Bing-jitamin';
     }
 }
