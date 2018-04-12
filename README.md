@@ -8,7 +8,7 @@ Plugin for https://github.com/jitamin/jitamin
 Author
 ------
 
-- cdgeelen
+- jian玄冰
 - License MIT
 
 Installation
